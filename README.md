@@ -30,8 +30,3 @@ I'm a Machine Learning Engineer from Kathmandu, Nepal, specializing in building 
   - **GitHub:** [github.com/hotrice37](https://github.com/hotrice37)
 
 -----
-
-<p align="center">
-<img src="[https://github-readme-stats.vercel.app/api?username=hotrice37\&show\_icons=true\&theme=radical](https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dhotrice37%26show_icons%3Dtrue%26theme%3Dradical)" alt="Shubin's GitHub Stats" />
-<img src="[https://komarev.com/ghpvc/?username=hotrice37\&color=blueviolet](https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dhotrice37%26color%3Dblueviolet)" alt="Profile Visitor Count" />
-</p>
