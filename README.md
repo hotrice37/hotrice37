@@ -1,6 +1,6 @@
 ### Hi there, I'm Shubin Pokhrel 👋
 
-I'm a Machine Learning Engineer from Kathmandu, Nepal, specializing in building and deploying scalable, end-to-end ML systems. I'm passionate about developing innovative solutions in computer vision and process LLM automation.
+I'm a Data Science student at Adelaide University, specializing in building and deploying scalable, end-to-end ML systems. I'm passionate about developing innovative solutions in computer vision and process LLM automation.
 
 -----
 
