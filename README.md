@@ -16,7 +16,7 @@ I'm a Data Science student at Adelaide University, specializing in building and 
 
 ### 🚀 Key Projects
 
-  - **[RAGAgent Backend](https://github.com/hotrice37/AITask)**: A backend system implementing a Retrieval-Augmented Generation (RAG) agent with document processing capabilities.
+  - **[RAGAgent Backend](https://github.com/hotrice37/RAGAgent)**: A backend system implementing a Retrieval-Augmented Generation (RAG) agent with document processing capabilities.
   - **[DeAgent](https://github.com/hotrice37/deagent)**: A multi-agent system that converts natural language into executable PySpark ETL pipelines using LangChain and AutoGen.
   - **[OpenLineage-enabled ETL](https://github.com/hotrice37/openlineage-airflow)**: A Spark-based ETL pipeline with comprehensive data lineage tracking using OpenLineage, Airflow, and DataHub.
   - **[TalkWithHands](https://github.com/hotrice37/TalkWithHands)**: A real-time sign language detection system leveraging a CNN-LSTM model, MediaPipe, and OpenCV.
